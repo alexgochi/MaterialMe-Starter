@@ -1,0 +1,90 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="paragraphs">
+        Baseball\n
+        "Bat-and-Ball game played between two teams of nine players each who take turns batting and fielding. The batting team attempts to score runs by hitting a ball (that is thrown by the opposing team's pitcher) with a bat swung by the batter, and then running counter-clockwise around a series of four bases: first, second, third, and home plate. A run is scored when a player advances around the bases and touches home plate."\n\n
+        Badminton\n
+        "The game may have originally developed among expatriate officers in British India, where it was very popular by the 1870s. Ball badminton, a form of the game played with a wool ball instead of a shuttlecock, was being played in Thanjavur as early as the 1850s and was at first played interchangeably with badminton by the British, the woollen ball being preferred in windy or wet weather."\n\n
+        Basketball\n
+        "Basketball as it is known today was created by Dr. James Naismith in December 1891 in Springfield, Massachusetts, to condition young athletes during cold months. It consisted of peach baskets and a soccer style ball. He published 13 rules for the new game. He divided his class of eighteen into two teams of nine players each and set about to teach them the basics of his new game. The objective of the game was to throw the basketball into the fruit baskets nailed to the lower railing of the gym balcony. Every time a point was scored, the game was halted so the janitor could bring out a ladder and retrieve the ball. After a while, the bottoms of the fruit baskets were removed. The first public basketball game was played in Springfield, Massachusetts, on March 11, 1892."\n\n
+        Bowling\n
+        "Bowling is a sport or leisure activity in which a player rolls or throws a bowling ball towards a target. It is one of the major forms of throwing sports. In pin bowling variations, the target is usually to knock over pins at the end of a lane. A strike is when all the pins are knocked down on the first roll, whereas a spare is when all the pins are knocked over on the second shot. The maximum score is 300, which is achieved by getting 12 strikes in a row."\n\n
+        Cycling\n
+        "Cycling quickly became an activity after bicycles were introduced in the 19th century and remains popular with more than a billion people worldwide used for recreation, transportation and sport."\n\n
+        Golf\n
+        "Golf, unlike most ball games, cannot and does not utilize a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. The game at the highest level is played on a course with an arranged progression of 18 holes, though recreational courses can be smaller, usually 9 holes. Each hole on the course must contain a tee box to start from, and a putting green containing the actual hole or cup (4.25 inches in diameter). There are other standard forms of terrain in between, such as the fairway, rough (long grass), sand traps (or "bunkers"), and various hazards (water, rocks, fescue) but each hole on a course is unique in its specific layout and arrangement."\n\n
+        Running\n
+        "Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions). This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion."\n\n
+        Soccer\n
+        "There are conflicting explanations of the origin of the word "football". It is widely assumed that the word "football" (or the phrase "foot ball") refers to the action of the foot kicking a ball. There is an alternative explanation, which is that football originally referred to a variety of games in medieval Europe, which were played on foot. There is no conclusive evidence for either explanation."\n\n
+        Swimming\n
+        "Swimming emerged as a competitive recreational activity in the 1830s in England. In 1828, the first indoor swimming pool, St George's Baths was opened to the public. By 1837, the National Swimming Society was holding regular swimming competitions in six artificial swimming pools, built around London. The recreational activity grew in popularity and by 1880, when the first national governing body, the Amateur Swimming Association was formed, there were already over 300 regional clubs in operation across the country."\n\n
+        Table Tennis\n
+        "Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using small bats. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions. Spinning the ball alters its trajectory and limits an opponent's options, giving the hitter a great advantage."\n\n
+        Tennis\n
+        "Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent's court. The object of the game is to play the ball in such a way that the opponent is not able to play a valid return. The player who is unable to return the ball will not gain a point, while the opposite player will."\n\n
+    </string>
+    <string name="news">History you need to know..</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
